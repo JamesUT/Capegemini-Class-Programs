@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.Serialization;
+
+namespace IDeserializationCallbackDemo 
+{
+    [Serializable]
+    public class Product : IDeserializationCallback
+    {
+        int id;
+        public int prodID
+        {
+            get { return id; }
+            set { id = value; }
+        }
+        int price;
+        public int Price
+        {
+            get { return price; }
+            set { price = value; }
+        }
+        int qty;
+        public int Quantity
+        {
+            get { return qty; }
+            set { qty = value; }
+        }
+        int total;
+        public int Total
+        {
+            get { return total; }
+            set { total = value; }
+        }
+        public Product(int id, int price, int qty)
+        {
+            this.id = id;
+            this.price = price;
+            this.qty = qty;
+        }
+
+        public void CalculateTotal()
+        {
+            this.total = this.qty * this.price;
+        }
+
+        public void OnDeserialization(object sender)
+        {
+            this.total = this.qty * this.price;
+        }
+    }
+}

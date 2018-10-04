@@ -1,0 +1,6 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\bin\Debug\IDeserializationCallbackDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\bin\Debug\IDeserializationCallbackDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\bin\Debug\IDeserializationCallbackDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\obj\Debug\IDeserializationCallbackDemo.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\obj\Debug\IDeserializationCallbackDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\IDeserializationCallbackDemo\obj\Debug\IDeserializationCallbackDemo.pdb
