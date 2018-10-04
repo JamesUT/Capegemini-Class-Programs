@@ -1,0 +1,6 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\bin\Debug\AnnonymousMethordDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\bin\Debug\AnnonymousMethordDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\bin\Debug\AnnonymousMethordDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\obj\Debug\AnnonymousMethordDemo.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\obj\Debug\AnnonymousMethordDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\AnnonymousMethordDemo\AnnonymousMethordDemo\obj\Debug\AnnonymousMethordDemo.pdb
