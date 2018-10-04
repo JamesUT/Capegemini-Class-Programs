@@ -1,0 +1,5 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day5\ReflectionLibrary\ReflectionLibrary\bin\Debug\ReflectionLibrary.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day5\ReflectionLibrary\ReflectionLibrary\bin\Debug\ReflectionLibrary.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day5\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day5\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day5\ReflectionLibrary\ReflectionLibrary\obj\Debug\ReflectionLibrary.pdb
