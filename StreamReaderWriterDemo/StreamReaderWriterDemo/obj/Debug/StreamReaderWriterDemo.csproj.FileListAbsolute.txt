@@ -1,0 +1,5 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\StreamReaderWriterDemo\StreamReaderWriterDemo\bin\Debug\StreamReaderWriterDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\StreamReaderWriterDemo\StreamReaderWriterDemo\bin\Debug\StreamReaderWriterDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\StreamReaderWriterDemo\StreamReaderWriterDemo\bin\Debug\StreamReaderWriterDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\StreamReaderWriterDemo\StreamReaderWriterDemo\obj\Debug\StreamReaderWriterDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\StreamReaderWriterDemo\StreamReaderWriterDemo\obj\Debug\StreamReaderWriterDemo.pdb
