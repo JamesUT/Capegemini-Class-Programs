@@ -1,0 +1,5 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Entity\bin\Debug\EMS.Entity.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Entity\bin\Debug\EMS.Entity.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Entity\obj\Debug\EMS.Entity.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Entity\obj\Debug\EMS.Entity.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Entity\obj\Debug\EMS.Entity.pdb

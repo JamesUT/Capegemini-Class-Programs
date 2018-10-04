@@ -1,0 +1,11 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.BL.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.BL.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.DAL.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.Entity.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.Exception.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.DAL.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.Entity.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\bin\Debug\EMS.Exception.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\obj\Debug\EMS.BL.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\obj\Debug\EMS.BL.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.BL\obj\Debug\EMS.BL.pdb

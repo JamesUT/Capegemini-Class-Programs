@@ -1,0 +1,4 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Exception\bin\Debug\EMS.Exception.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Exception\bin\Debug\EMS.Exception.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Exception\obj\Debug\EMS.Exception.dll
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\EmployeeManagementSystem\EMS.Exception\obj\Debug\EMS.Exception.pdb
