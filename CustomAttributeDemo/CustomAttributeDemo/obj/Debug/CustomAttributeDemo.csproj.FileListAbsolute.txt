@@ -1,0 +1,6 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\bin\Debug\CustomAttributeDemo.exe.config
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\obj\Debug\CustomAttributeDemo.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\bin\Debug\CustomAttributeDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\bin\Debug\CustomAttributeDemo.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\obj\Debug\CustomAttributeDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\CustomAttributeDemo\CustomAttributeDemo\obj\Debug\CustomAttributeDemo.pdb

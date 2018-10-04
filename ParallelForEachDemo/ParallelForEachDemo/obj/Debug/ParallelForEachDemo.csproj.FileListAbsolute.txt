@@ -1,0 +1,5 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForEachDemo\ParallelForEachDemo\bin\Debug\ParallelForEachDemo.exe.config
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForEachDemo\ParallelForEachDemo\bin\Debug\ParallelForEachDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForEachDemo\ParallelForEachDemo\bin\Debug\ParallelForEachDemo.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForEachDemo\ParallelForEachDemo\obj\Debug\ParallelForEachDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForEachDemo\ParallelForEachDemo\obj\Debug\ParallelForEachDemo.pdb

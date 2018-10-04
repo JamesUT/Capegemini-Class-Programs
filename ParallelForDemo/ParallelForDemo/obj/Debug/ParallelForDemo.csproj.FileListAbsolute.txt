@@ -1,0 +1,6 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\bin\Debug\ParallelForDemo.exe.config
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\bin\Debug\ParallelForDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\bin\Debug\ParallelForDemo.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\obj\Debug\ParallelForDemo.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\obj\Debug\ParallelForDemo.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ParallelForDemo\ParallelForDemo\obj\Debug\ParallelForDemo.pdb

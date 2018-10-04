@@ -1,0 +1,6 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\bin\Debug\OptionalNamedDynamicArgument.exe.config
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\bin\Debug\OptionalNamedDynamicArgument.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\bin\Debug\OptionalNamedDynamicArgument.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\obj\Debug\OptionalNamedDynamicArgument.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\obj\Debug\OptionalNamedDynamicArgument.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\OptionalNamedDynamicArgument\OptionalNamedDynamicArgument\obj\Debug\OptionalNamedDynamicArgument.pdb
