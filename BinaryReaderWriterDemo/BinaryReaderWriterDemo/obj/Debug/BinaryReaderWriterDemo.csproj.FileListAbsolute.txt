@@ -1,0 +1,6 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\bin\Debug\BinaryReaderWriterDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\bin\Debug\BinaryReaderWriterDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\bin\Debug\BinaryReaderWriterDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\obj\Debug\BinaryReaderWriterDemo.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\obj\Debug\BinaryReaderWriterDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\BinaryReaderWriterDemo\BinaryReaderWriterDemo\obj\Debug\BinaryReaderWriterDemo.pdb
