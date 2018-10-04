@@ -1,0 +1,5 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVarianceDemo3_0\ContraVarianceDemo3_0\bin\Debug\ContraVarianceDemo3_0.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVarianceDemo3_0\ContraVarianceDemo3_0\bin\Debug\ContraVarianceDemo3_0.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVarianceDemo3_0\ContraVarianceDemo3_0\obj\Debug\ContraVarianceDemo3_0.csprojResolveAssemblyReference.cache
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVarianceDemo3_0\ContraVarianceDemo3_0\obj\Debug\ContraVarianceDemo3_0.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVarianceDemo3_0\ContraVarianceDemo3_0\obj\Debug\ContraVarianceDemo3_0.pdb

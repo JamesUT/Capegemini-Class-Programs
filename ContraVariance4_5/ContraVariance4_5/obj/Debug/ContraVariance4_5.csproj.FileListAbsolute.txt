@@ -1,0 +1,5 @@
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVariance4_5\ContraVariance4_5\bin\Debug\ContraVariance4_5.exe.config
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVariance4_5\ContraVariance4_5\bin\Debug\ContraVariance4_5.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVariance4_5\ContraVariance4_5\bin\Debug\ContraVariance4_5.pdb
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVariance4_5\ContraVariance4_5\obj\Debug\ContraVariance4_5.exe
+D:\DATA\2018\Sep\Training\CSharp\Demo\Day6\ContraVariance4_5\ContraVariance4_5\obj\Debug\ContraVariance4_5.pdb
