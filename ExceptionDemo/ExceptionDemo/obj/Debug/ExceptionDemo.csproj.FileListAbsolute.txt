@@ -1,0 +1,6 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
