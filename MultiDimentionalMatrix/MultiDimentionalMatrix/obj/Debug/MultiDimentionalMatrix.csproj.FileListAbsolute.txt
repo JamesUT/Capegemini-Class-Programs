@@ -1,0 +1,5 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MultiDimentionalMatrix\MultiDimentionalMatrix\bin\Debug\MultiDimentionalMatrix.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MultiDimentionalMatrix\MultiDimentionalMatrix\bin\Debug\MultiDimentionalMatrix.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MultiDimentionalMatrix\MultiDimentionalMatrix\bin\Debug\MultiDimentionalMatrix.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MultiDimentionalMatrix\MultiDimentionalMatrix\obj\Debug\MultiDimentionalMatrix.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MultiDimentionalMatrix\MultiDimentionalMatrix\obj\Debug\MultiDimentionalMatrix.pdb

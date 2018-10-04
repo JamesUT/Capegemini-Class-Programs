@@ -1,0 +1,6 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

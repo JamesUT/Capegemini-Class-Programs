@@ -1,0 +1,5 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ObjectInitializerDemo\ObjectInitializerDemo\bin\Debug\ObjectInitializerDemo.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ObjectInitializerDemo\ObjectInitializerDemo\bin\Debug\ObjectInitializerDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ObjectInitializerDemo\ObjectInitializerDemo\bin\Debug\ObjectInitializerDemo.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ObjectInitializerDemo\ObjectInitializerDemo\obj\Debug\ObjectInitializerDemo.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\ObjectInitializerDemo\ObjectInitializerDemo\obj\Debug\ObjectInitializerDemo.pdb
