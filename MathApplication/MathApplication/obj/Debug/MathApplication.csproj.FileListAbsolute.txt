@@ -1,0 +1,8 @@
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\bin\Debug\MathApplication.exe.config
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\bin\Debug\MathApplication.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\bin\Debug\MathApplication.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\bin\Debug\MathLibrary.dll
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\bin\Debug\MathLibrary.pdb
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\obj\Debug\MathApplication.csprojResolveAssemblyReference.cache
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\obj\Debug\MathApplication.exe
+C:\Users\uupadhya\Desktop\utkarsh\VS projects\MathApplication\MathApplication\obj\Debug\MathApplication.pdb
