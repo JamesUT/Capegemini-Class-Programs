@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" url="Home.aspx">
+    <siteMapNode title="L and D" url="LnD.aspx" description="Learning and development" >
+      <siteMapNode title="College hiring" url="CollegeHire.aspx"></siteMapNode>
+      <siteMapNode title="Future Manage Program" url="FMP.aspx"></siteMapNode>
+      <siteMapNode title="Managerial development program" url="MDP.aspx"></siteMapNode>
+      <siteMapNode title="Emerging Technologies" url="ET.aspx"></siteMapNode>
+    </siteMapNode>
+    <siteMapNode title="Group Sales" url="Sales.aspx">
+      <siteMapNode title="Account Management Stategic Initiative" url="AMSI.aspx"></siteMapNode>
+      <siteMapNode title="Country managed Account" url="CMA.aspx"></siteMapNode>
+      <siteMapNode title="Global Framework agreement" url="GFA.aspx"></siteMapNode>
+    </siteMapNode>
+    <siteMapNode title="Our University" url="University.aspx">
+      <siteMapNode title="Digital Age Learning" url="DAL.aspx"></siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CompanyMaster.master.cs" Inherits="SiteNavigationDemo.CompanyMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width:100%">
+            <tr>
+                <td colspan="2" style="background-color:deepskyblue;color:white;font-family:'Times New Roman';font-size:large;text-align:center">
+                    Capgemini Technology Services Ltd.
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color:#ffd800">
+                    <asp:SiteMapDataSource ID="smds" runat="server"  />   <%--ShowStartingNode="false"--%>
+                    <asp:Menu ID="Menu" runat="server" DataSourceID="smds"></asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:20%;vertical-align:top;background-color:#b6ff00" rowspan="2">
+                    <asp:TreeView ID="tv" runat="server" DataSourceID="smds"></asp:TreeView>
+                </td>
+                <td style="width:80%;vertical-align:top;background-color:#4cff00">
+                    <asp:SiteMapPath ID="smp" runat="server"></asp:SiteMapPath>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="cphBody" runat="server">
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color:deepskyblue;color:white;font-size:10px">
+                    &copy; CopyRight. All Rights Reserved. 2018
+                </td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
