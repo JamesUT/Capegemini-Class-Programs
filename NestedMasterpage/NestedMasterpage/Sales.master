@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/CompanyMaster.Master" AutoEventWireup="true" CodeBehind="Sales.master.cs" Inherits="NestedMasterpage.Sales" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphBody" runat="server">
+    <table style="width=100%">
+        <tr>
+            <td>
+
+            </td>
+        </tr>
+    </table>
+</asp:Content>

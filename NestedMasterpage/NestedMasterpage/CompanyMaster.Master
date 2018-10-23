@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CompanyMaster.master.cs" Inherits="NestedMasterpage.CompanyMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width:100%">
+            <tr>
+                <td style="width:100%;background-color:deepskyblue;color:white;font-family:'Times New Roman', Times, serif; font-size:larger;text-align:center">
+                    Capegemini Services Pvt. Ltd.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:HyperLink ID="hrlHome" runat="server" Text="Home" ></asp:HyperLink>
+                    &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="hrlLnD" runat="server" Text="L & D" ></asp:HyperLink>
+                     &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="hrlSales" runat="server" Text="Sales"></asp:HyperLink>
+                     &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HrlUniv" runat="server" Text="Our University"></asp:HyperLink>
+                    &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="cphBody" runat="server"></asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:100%;background-color:deepskyblue;color:white;font-family:'Times New Roman', Times, serif; font-size:small">
+                    &copy; CopyRight. All Rights Reserved. 2018
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
